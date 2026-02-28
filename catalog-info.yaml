@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: trail-trivy-scan
+  annotations:
+    github.com/project-slug: pavan-3000/trail-trivy-scan
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
